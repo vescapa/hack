@@ -1,1 +1,1 @@
-Pequeñas utilidades para hacer la vida del hacker mas sencilla. Via ChatGPT
+Pequeñas utilidades para hacer la vida del hacker más sencilla. Via ChatGPT
